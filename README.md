@@ -1,4 +1,5 @@
 # My choice of team at Illumio
+I am very interested in working with the Data and Platform teams at Illumio.
 
 # Installation
 1. Run `pip3 install pandas` and `pip3 install ipaddress`
